@@ -1,0 +1,7 @@
+func main() -> i32 {
+	stdio.println("Hello, World!");
+
+	return 0;
+}
+
+
